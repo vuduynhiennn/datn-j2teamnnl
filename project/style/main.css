@@ -2,11 +2,19 @@
 /* import font: roboto */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
+/* import icon fontawesome  */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
+
 /* variables */
 :root {
     --primaryColor: #EE2624;
+    --headColor: #D52220;
     --footerColor: #27343E;
     --fontColor: #FFFFFF;
+    --iconColor: #3F4B53;
+    --hoverColor: #f8f8f8;
+    --bgMain: #F2F3F4;
+    
 }
 
 /* general style  */
@@ -16,43 +24,228 @@ a {
     list-style: none;
 }
 
+.hideElement {
+    display: none;
+}
+
+.up {
+    top: 0px;
+}
+
 /* app style  */
 body {
+    background-color: #FAFAFA;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
 
-header {
-    width: 100vw;
-    height: 110px;
-    background-color: var(--primaryColor);
+body::-webkit-scrollbar {
+    background-color:#fff;
+    width:16px
 }
 
-.main {
-    height: 1000px;
+/* background of the scrollbar except button or resizer */
+body::-webkit-scrollbar-track {
+    background-color:#fff
+}
+body::-webkit-scrollbar-track:hover {
+    background-color:#f4f4f4
 }
 
-footer {
-    height: 233px;
-    width: 1356px;
+/* scrollbar itself */
+body::-webkit-scrollbar-thumb {
+    background-color:#babac0;
+    border-radius:16px;
+    border:5px solid #fff
+}
+body::-webkit-scrollbar-thumb:hover {
+    background-color:#a0a0a5;
+    border:4px solid #f4f4f4
+}
+
+/* set button(top and bottom of the scrollbar) */
+body::-webkit-scrollbar-button {display:none}
+
+.header--menu {
+    background-color: var(--headColor);
+    width: 100%;
+}
+
+.header--menu ul {
     margin: 0 auto;
-    text-align: center;
     font-size: 12px;
-    background-color: var(--footerColor);
+    font-weight: 600;
     color: var(--fontColor);
+    width: 1256px;
+    display: flex;
+}
+
+.header--menu ul li {
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+header {
+    width: 100%;
+    height: fit-content;
+    background-color: var(--primaryColor);
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    padding: 8px 0px;
+    box-sizing: border-box;
+    position: fixed;
+}
+
+header .header--ctn {
+    align-items: center;
+    width: 1256px;
+    justify-content: space-between;
+    display: flex;
+}
+
+header .taskbar {
+    padding-bottom: 4px;
+}
+
+header .input--ctn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+header .input--ctn .search {
+    width: 933px;
+    height: 40px;
+    outline: none;
+    border: 0;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 14px;
+    text-indent: 15px;
+    color: var(--iconColor);
+}
+
+header .fa-cart-arrow-down, .fa-list-alt {
+    color: var(--fontColor);
+    cursor: pointer;
+    font-size: 23px;
+    transition: 0.2s;
+}
+
+header .fa-list-alt:hover {
+    color: #3F4B53;
+}
+
+header .header--ctn img {
+    width: 90px;
+}
+
+header .header--ctn .login {
+    border: 0;
+    border-radius: 5px;
+    padding: 9px 14px;
+    color: var(--iconColor);
+    font-weight: 700;
+    cursor: pointer;
+    background-color: #FFFFFF;
+    transition: 0.2s;
+}
+
+header .header--ctn .login:hover {
+    background-color: var(--hoverColor);
+}
+
+header .header-items {
+    width: 1256px;
+}
+
+header .header-items ul {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+header .header-items ul li {
+    padding: 14px 20px;
+    cursor: pointer;
+    transition: 0.2s;
+    color: var(--fontColor);
+}
+
+header .header-items .checked {
+    border-bottom: 3px solid var(--fontColor);
+    font-weight: 700;
+
+}
+
+header .header-items ul li:hover {
+    background-color: rgba(255, 255, 255, 0.20);
+    border-radius: 3px;
+}
+
+header .header-items ul li:checked {
+    background-color: var(--iconColor);
+}
+
+.main {
+    height: 700px;
+    background-color: var(--bgMain);
+
+}
+
+footer {
+    height: 450px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    color: var(--fontColor);
+    font-size: 12px;
     line-height: 15px;
 }
+
+footer .footer--items ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1256px;
+    margin: 0 auto;
+}
+
+footer .footer--items ul li {
+    padding: 40px;
+}
+
+footer .footer--items ul li img {
+    width: 130px;
+}
 footer .footer--ctn {
-    width: fit-content;
+    border-radius: 3px;
+    width: 1356px;
+    background-color: var(--footerColor);
+    padding: 20px;
+}
+footer .footer--items {
+    height: 100px;
+    width: 100%;
+    color: var(--footerColor);
 }
 
 footer .footer--ctn .bold {
     font-weight: 700;
 }
-
+footer .bold {
+    font-weight: 700;
+}
+footer .footer--items ul .black {
+    color: var(--footerColor);
+}
 footer .footer--ctn .bocongthuong {
     width: 108px;
     margin-left: 20px;
