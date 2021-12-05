@@ -181,7 +181,6 @@ header .header-items ul li {
 header .header-items .checked {
     border-bottom: 3px solid var(--fontColor);
     font-weight: 700;
-
 }
 
 header .header-items ul li:hover {
