@@ -68,7 +68,10 @@ body::-webkit-scrollbar-button {display:none}
 
 .header--menu {
     background-color: var(--headColor);
-    width: 100%;
+    width: 100vw;
+    position: relative;
+    height: fit-content;
+    box-sizing: border-box;
 }
 
 .header--menu ul {
@@ -191,9 +194,48 @@ header .header-items ul li:checked {
 }
 
 .main {
-    height: 700px;
+    padding-top: 163px;
+    width: 100%;
+    background-color: var(--bgMain);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main .main--product {
+    width: 1256px;
+}
+.main .main--product ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main .main--more {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding-bottom: 20px; */
+    padding: 30px;
+}
+
+.main .main--more a  {
+    color: var(--footerColor);
     background-color: var(--bgMain);
 
+    font-weight: 600;
+}
+.main .main--more a h1 {
+    padding: 14px 170px;
+    background: white;
+    border-radius: 5px;
+    transition: 0.4s;
+}
+
+.main .main--more h1:hover {
+    background-color: rgb(204, 204, 204, 0.13);
+    box-shadow: 0 2px 2px rgba(240, 240, 240, 0.65), 0 2px 2px rgba(245, 245, 245, 0.62), 0 2px 2px rgba(240, 240, 240, 0.65), 0 2px 2px rgba(245, 245, 245, 0.62);
 }
 
 footer {
@@ -250,3 +292,7 @@ footer .footer--ctn .bocongthuong {
     width: 108px;
     margin-left: 20px;
 }
+
+
+
+/* arrow back to top */ 

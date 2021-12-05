@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,7 +15,7 @@
     <link rel="icon" sizes="144x144" href="./img/favicon/apple-icon-144x144.png">
     <link rel="icon" sizes="152x152" href="./img/favicon/apple-icon-152x152.png">
     <link rel="icon" sizes="180x180" href="./img/favicon/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="./img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="./img/favicon/android-icon-192x192.png">
     <link rel="icon" type="image/png" sizes="32x32" href="./img/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="./img/favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="./img/favicon/favicon-16x16.png">
@@ -26,8 +27,14 @@
     <!-- import css  -->
     <link rel="stylesheet" href="./style/reset.css">
     <link rel="stylesheet" href="./style/main.css">
+    <link rel="stylesheet" href="./style/card.css">
+    <link rel="stylesheet" href="./style/res.css">
+    <!-- add file script  -->
+    <script src="./js/fixed.js"></script>
 </head>
-<body>
+
+<body id="toTop">
+
     <div class="header--menu">
         <ul>
             <li>
@@ -48,6 +55,8 @@
             </li>
         </ul>
     </div>
+
+    
     <header>
         <div class="taskbar">
             <div class="header--ctn">
@@ -56,14 +65,14 @@
                 </a>
                 <i class="far fa-list-alt"></i>
                 <div class="input--ctn">
-                  
+
                     <input class="search" type="text" placeholder="Tìm kiếm trên J2team Store...">
                 </div>
 
                 <i class="fas fa-cart-arrow-down"></i>
-                
+
                 <input class="login" type="submit" value="Đăng nhập">
-    
+
             </div>
         </div>
         <div class="header-items">
@@ -79,9 +88,509 @@
     </header>
 
     <div class="main">
+        <div class="main--product">
+            <ul>
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
 
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="main--product">
+            <ul>
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <div class="main--product">
+            <ul>
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <div class="main--product">
+            <ul>
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="container">
+                        <div class="card">
+                            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXMlMjBuaWtlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" alt="" />
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="card-title">
+                                        <h4>Nike Sneaker</h4>
+                                        <h3>$120</h3>
+                                    </div>
+                                    <div class="view-btn">
+                                        <a href="">View Details</a>
+                                    </div>
+                                </div>
+                                <hr />
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi,
+                                    dignissimos.
+                                </p>
+                                <div class="btn-group">
+                                    <div class="btn">
+                                        <a href="">Buy Now</a>
+                                    </div>
+                                    <a href=""> Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        
+        <div class="main--more">
+            <a href="#">
+                <h1>Xem thêm...</h1>
+            </a>
+        </div>
     </div>
-    
+
     <footer>
         <div class="footer--items">
             <ul>
@@ -92,9 +601,10 @@
                     <br>
                     <p class="bold">Siêu nhiều hàng tốt</p>
                     <br>
-                    <p>Cần gì cũng có 26 ngành hàng & 
-                    <br>
-                    10 triệu sản phẩm</p>
+                    <p>Cần gì cũng có 26 ngành hàng &
+                        <br>
+                        10 triệu sản phẩm
+                    </p>
                 </li>
                 <li>
                     <a href="#">
@@ -113,8 +623,9 @@
                     <p class="bold">Siêu tiện lợi</p>
                     <br>
                     <p>Mang thế giới mua sắm của Sendo
-                    <br>    
-                    trong tầm tay bạn</p>
+                        <br>
+                        trong tầm tay bạn
+                    </p>
                 </li>
                 <li>
                     <a href="#">
@@ -123,9 +634,10 @@
                     <br>
                     <p class="bold">Siêu tiết kiệm</p>
                     <br>
-                    <p>Giá cả hợp lí, vừa túi tiền. Luôn có nhiều 
-                    <br>    
-                    chương trình khuyến mãi</p>
+                    <p>Giá cả hợp lí, vừa túi tiền. Luôn có nhiều
+                        <br>
+                        chương trình khuyến mãi
+                    </p>
                 </li>
             </ul>
         </div>
@@ -149,6 +661,9 @@
             </a>
         </div>
     </footer>
-    <script src="./js/fixed.js"></script>
+    <a href="#toTop">
+        <i style="color: #D52220; font-size: 35px; position: fixed; right: 10px; bottom: 50px" class="fas fa-arrow-up hideElement"></i>
+    </a>
 </body>
+
 </html>

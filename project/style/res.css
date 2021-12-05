@@ -1,0 +1,22 @@
+@media only screen and (max-width: 1200px) {
+    header .taskbar .header--ctn .input--ctn .search {
+        width: 800px;
+    }
+    header .header--ctn {
+        width: 1200px;
+    }
+}
+
+@media only screen and (max-width: 1025px) {
+    header .taskbar {
+        width: 100vw;
+    }
+    header .header--ctn {
+        width: 700px !important;
+    }
+    header .taskbar .header--ctn .input--ctn .search {
+        width: 600px !important;
+    }
+
+}
+
