@@ -1,0 +1,59 @@
+
+/* import font: roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+/* variables */
+:root {
+    --primaryColor: #EE2624;
+    --footerColor: #27343E;
+    --fontColor: #FFFFFF;
+}
+
+/* general style  */
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+    list-style: none;
+}
+
+/* app style  */
+body {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    width: 100vw;
+    height: 110px;
+    background-color: var(--primaryColor);
+}
+
+.main {
+    height: 1000px;
+}
+
+footer {
+    height: 233px;
+    width: 1356px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 12px;
+    background-color: var(--footerColor);
+    color: var(--fontColor);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 15px;
+}
+footer .footer--ctn {
+    width: fit-content;
+}
+
+footer .footer--ctn .bold {
+    font-weight: 700;
+}
+
+footer .footer--ctn .bocongthuong {
+    width: 108px;
+    margin-left: 20px;
+}
