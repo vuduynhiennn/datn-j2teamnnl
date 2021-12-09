@@ -68,7 +68,7 @@ body::-webkit-scrollbar-button {display:none}
 
 .header--menu {
     background-color: var(--headColor);
-    width: 100vw;
+    width: 100%;
     position: relative;
     height: fit-content;
     box-sizing: border-box;

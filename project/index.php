@@ -646,7 +646,7 @@
             <br>
             <p>Ngày khai giảng: 05/09/2021, ngày bắt đầu làm đồ án tốt nghiệp 12/05/2021</p>
             <br>
-            <p>Nhóm trưởng: Vũ Duy Nhiên, thành viên nhóm: Việt Nguyễn</p>
+            <p>Thành viên nhóm: Việt Nguyễn, Vũ Duy Nhiên</p>
             <br>
             <p>Công nghệ sử dụng: html 5, css 3, js thuần, php thuần, mysql</p>
             <br>
