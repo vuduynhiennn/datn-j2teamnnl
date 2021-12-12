@@ -1,5 +1,5 @@
 <?php 
     require './header.php';
-    require './main.php';
+    require './cltpkMain.php';
     require './footer.php';
 ?>

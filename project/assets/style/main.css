@@ -192,8 +192,9 @@ header .header-items ul li:checked {
     background-color: var(--iconColor);
 }
 
+
 .main {
-    padding-top: 163px;
+    padding-top: 123px;
     width: 100%;
     background-color: var(--bgMain);
     display: flex;
@@ -204,6 +205,7 @@ header .header-items ul li:checked {
 
 .main .main--product {
     width: 1256px;
+    padding-top: 40px;
 }
 .main .main--product ul {
     display: flex;
@@ -219,13 +221,13 @@ header .header-items ul li:checked {
     padding: 30px;
 }
 
-.main .main--more a  {
+.main .main--more  {
     color: var(--footerColor);
-    background-color: var(--bgMain);
+    /* background-color: var(--bgMain); */
 
     font-weight: 600;
 }
-.main .main--more a h1 {
+.main .main--more h1 {
     padding: 14px 170px;
     background: white;
     border-radius: 5px;

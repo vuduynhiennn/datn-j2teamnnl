@@ -1,5 +1,5 @@
-<?php 
+<?php
     require './header.php';
-    require './main.php';
+    require './detailsMain.php';
     require './footer.php';
 ?>
