@@ -72,6 +72,7 @@ body::-webkit-scrollbar-button {display:none}
     position: relative;
     height: fit-content;
     box-sizing: border-box;
+    user-select:none;
 }
 
 .header--menu ul {
@@ -181,6 +182,7 @@ header .header-items ul li {
 header .header-items .checked {
     border-bottom: 3px solid var(--fontColor);
     font-weight: 700;
+    border-radius: 15px;
 }
 
 header .header-items ul li:hover {
@@ -194,7 +196,7 @@ header .header-items ul li:checked {
 
 
 .main {
-    padding-top: 123px;
+    padding-top: 143px;
     width: 100%;
     background-color: var(--bgMain);
     display: flex;
@@ -224,7 +226,7 @@ header .header-items ul li:checked {
 .main .main--more  {
     color: var(--footerColor);
     /* background-color: var(--bgMain); */
-
+    cursor: pointer;
     font-weight: 600;
 }
 .main .main--more h1 {

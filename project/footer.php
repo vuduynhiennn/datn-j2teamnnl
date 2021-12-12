@@ -3,7 +3,7 @@
         <div class="footer--items">
             <ul>
                 <li>
-                    <a href="#">
+                    <a href="https://www.sendo.vn/huong-dan/ve-sendo">
                         <img src="https://media3.scdn.vn/img4/2020/12_16/gJwXr6FFZKZCGKWaz4RB.png" alt="">
                     </a>
                     <br>
@@ -15,7 +15,7 @@
                     </p>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="https://www.sendo.vn/huong-dan/ve-sendo">
                         <img src="https://media3.scdn.vn/img4/2020/12_16/EfZWQVfV6nQzu2vMmnwC.png" alt="">
                     </a>
                     <br>
@@ -24,7 +24,7 @@
                     <p>Miễn phí đổi trả trong 48h</p>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="https://www.sendo.vn/huong-dan/ve-sendo">
                         <img src="https://media3.scdn.vn/img4/2020/12_16/j5C6IQz7gIXPgjFJxmRz.png" alt="">
                     </a>
                     <br>
@@ -36,7 +36,7 @@
                     </p>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="https://www.sendo.vn/huong-dan/ve-sendo">
                         <img src="https://media3.scdn.vn/img4/2020/12_16/7AJFQGQ5qvS7gGOz8P7a.png" alt="">
                     </a>
                     <br>
@@ -61,10 +61,10 @@
             <br>
             <p>github: <a href="https://github.com/vuduynhiennn/datn-j2teamnnl">datn-j2teamnnl</a></p>
             <br>
-            <a href="#">
+            <a href="./bocongthuong.php">
                 <img class="bocongthuong" src="https://media3.scdn.vn/img4/2020/12_16/XhpGDnvWqrlKeHLst3aS.png" alt="logo bộ công thương">
             </a>
-            <a href="#">
+            <a href="./bocongthuong.php">
                 <img class="bocongthuong" src="https://media3.scdn.vn/img4/2020/12_16/h6lEMGIAt4Uapd0Mls34.png" alt="logo bộ công thương">
             </a>
         </div>

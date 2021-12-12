@@ -23,13 +23,17 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content=".assets/img/favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-    <title>Nhóm 25: web bán hàng</title>
+    <title>
+        <?php
+            echo "web 25: j2team store";
+        ?>
+    </title>
     <!-- import css  -->
     <link rel="stylesheet" href="./assets/style/reset.css">
     <link rel="stylesheet" href="./assets/style/main.css">
     <link rel="stylesheet" href="./assets/style/card.css">
     <link rel="stylesheet" href="./assets/style/res.css">
-    <!-- add file script  -->
+    <link rel="stylesheet" href="./assets/style/bocongthuong.css">
 </head>
 
 <body id="toTop">
@@ -61,9 +65,10 @@
                 <a href="index.php">
                     <img class="logo" src="https://i.imgur.com/gcLslvc.png" alt="">
                 </a>
+
                 <i class="far fa-list-alt"></i>
+
                 <div class="input--ctn">
-                    
                     <input class="search" type="text" placeholder="Tìm kiếm trên J2team Store...">
                 </div>
                 
@@ -75,30 +80,73 @@
                 
             </div>
         </div>
+        <?php
+            $uri = $_SERVER['REQUEST_URI'];
+            $query = $_SERVER['QUERY_STRING'];
+            echo '<br>';
+            
+            $domain = $_SERVER['HTTP_HOST'];
+            
+            $protocol = ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off') || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
+            
+            $url = $_SERVER['REQUEST_URI'];
+
+        ?>
         <div class="header-items">
             <ul>
                 <a href="index.php">
                     <li class="options"> Cho bạn </li>
+                    <?php
+                        if ($url == '/datn-j2teamnnl/project/index.php') {
+                            echo '<div class="checked"></div>';
+                        }
+                    ?>
                 </a>
                 <a href="./dodungsinhhoat.php">
                     <li class="options"> Đồ dùng sinh hoạt </li>
+                    <?php
+                        if ($url == '/datn-j2teamnnl/project/dodungsinhhoat.php') {
+                            echo '<div class="checked"></div>';
+                        }
+                    ?>
                 </a>
                 <a href="./dungculamvuon.php">
                     <li class="options"> Dụng cụ làm vườn </li>
+                    <?php
+                        if ($url == '/datn-j2teamnnl/project/dungculamvuon.php') {
+                            echo '<div class="checked"></div>';
+                        }
+                    ?>
                 </a>
                 <a href="./dodunglambep.php">
                     <li class="options"> Đồ dùng làm bếp </li>
+                    <?php
+                        if ($url == '/datn-j2teamnnl/project/dodunglambep.php') {
+                            echo '<div class="checked"></div>';
+                        }
+                    ?>
                 </a>
                 <a href="./chamsocsuckhoe.php">
                     <li class="options"> Chăm sóc sức khỏe </li>
+                    <?php
+                        if ($url == '/datn-j2teamnnl/project/chamsocsuckhoe.php') {
+                            echo '<div class="checked"></div>';
+                        }
+                    ?>
                 </a>
                 <a href="./cacloaithucphamkho.php">
                     <li class="options"> Các loại thực phẩm khô </li>
+                    <?php
+                        if ($url == '/datn-j2teamnnl/project/cacloaithucphamkho.php') {
+                            echo '<div class="checked"></div>';
+                        }
+                    ?>
                 </a>
             </ul>
         </div>
+
     </header>
-    
     <script src="./assets/js/header.js"></script>
+    
 
 

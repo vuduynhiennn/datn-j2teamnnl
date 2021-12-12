@@ -12,7 +12,7 @@ window.addEventListener("scroll", function(event) {
 
 window.addEventListener("scroll", function(event) { 
     let scroll_y = this.scrollY;  
-    if (scroll_y >= 30e0) {
+    if (scroll_y >= 1000) {
         arrowPosition[0].classList.remove('hideElement');
     } else {
         arrowPosition[0].classList.add('hideElement');
