@@ -1,5 +1,5 @@
 <?php
     require './header.php';
-    require './bctMain.php';
+    require './components/bctMain.php';
     require './footer.php';
 ?>

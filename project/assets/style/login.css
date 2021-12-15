@@ -1,0 +1,40 @@
+.shadowBG {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(42, 42, 42);
+    opacity: 0.6;
+    /* z-index: -10; */
+    /* display: none; */
+}
+
+.loginForm--ctn {
+    /* display: none; */
+    /* z-index: -10; */
+
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginForm {
+    /* display: none; */
+    /* z-index: -10; */
+
+    width: 440px;
+    height: 500px;
+    border-radius: 10px;
+    opacity: 1;
+    background-color: white;
+}
+
+.loginForm p a {
+    color: rgb(57, 57, 241);
+}

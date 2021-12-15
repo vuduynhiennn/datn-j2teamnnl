@@ -26,6 +26,7 @@ a {
 
 .hideElement {
     display: none;
+    z-index: -100;
 }
 
 .up {

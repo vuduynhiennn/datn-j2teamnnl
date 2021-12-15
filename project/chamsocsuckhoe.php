@@ -1,5 +1,5 @@
 <?php 
     require './header.php';
-    require './csskMain.php';
+    require './components/csskMain.php';
     require './footer.php';
 ?>

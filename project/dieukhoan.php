@@ -1,5 +1,5 @@
-<?php 
+<?php
     require './header.php';
-    require './components/dclvMain.php';
+    require './components/dieukhoanMain.php';
     require './footer.php';
 ?>
