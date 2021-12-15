@@ -1,22 +1,23 @@
 # Đồ án tốt nghiệp j2team school 
 
-**người tham gia:** Vũ Duy Nhiên, Việt Nguyễn
-
+**người tham gia:** Vũ Duy Nhiên, Vũ Duy Nhiên, Việt Nguyễn (đã nghỉ, bảo vệ đồ án đợt sau)
 
 # phân công nhiệm vụ
 
-**việt**: code chi tiết phần details, nghiên cứu db
+**nhiên**:  hoàn thành word bản trình bày, exel cơ sở dữ liệu
 
 **nhiên**: sửa lại giao diện, nghiên cứu db
 
 # lịch sử
 
+15/12/2021
+
+**nhiên**: fix constructor, add file exel decribe for database, file word presentation, add policy page, login page, 
+
 12/12/2021
 
- **nhiên**: more btn, details, sửa cấu trúc file, header options
+ **nhiên**: more btn, details, sửa cấu trúc file, header options, login, dashbroad
  
- **việt**: admin, login
-
 
 # **tài liệu học** 
 
