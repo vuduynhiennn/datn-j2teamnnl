@@ -4,11 +4,15 @@
 
 # phân công nhiệm vụ
 
-**nhiên**:  hoàn thành word bản trình bày, exel cơ sở dữ liệu, mô hình quan hệ thực thể 
+**nhiên** mô hình quan hệ thực thể 
 
 **nhiên**: sửa lại giao diện, nghiên cứu db, xóa login cũ 
 
 # lịch sử
+
+19/12/2021
+
+**nhiên**:  hoàn thành word bản trình bày, exel cơ sở dữ liệu, 
 
 15/12/2021
 
