@@ -1,0 +1,25 @@
+Bán hàng
+
+2. đối tượng sử dụng:
+ a. khách hàng không tài khoản:
+	1. tìm kiếm theo tên sản phẩm hoặc nhà sản xuất
+      2. xem tất cả, chi tiết sản phẩm
+      3. đăng kí
+ b. khách hàng có tài khoản
+      1. đầy đủ của khách hàng không có tài khoản
+      2. đăng nhập, đăng xuất
+      3. quản lí giỏ hàng (thêm sửa, số lượng, xóa giỏ hàng)
+	4. đặt hàng
+	5. xem hóa đơn
+      6. bình luận, đánh giá
+ c. nhân viên
+	1. đăng nhập đăng xuất
+	2. xem, thêm sản phẩm, sửa sản phẩm
+      3. thay đổi tình trạng đơn
+      
+ d. quản lí 
+      1. đầy đủ của nhân viên
+      2. quản lí nhà sản xuất (xem, thêm, sửa)
+      3. quản lí xem phim (xem, thêm, sửa, xóa)
+	4. quản lí nhân viên (xem, thêm, sửa, xóa)
+	 
