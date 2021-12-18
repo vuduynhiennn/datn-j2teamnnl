@@ -1,12 +1,12 @@
 # Đồ án tốt nghiệp j2team school 
 
-**người tham gia:** Vũ Duy Nhiên, Vũ Duy Nhiên, Việt Nguyễn (đã nghỉ, bảo vệ đồ án đợt sau)
+**người tham gia:** Vũ Duy Nhiên, Việt Nguyễn
 
 # phân công nhiệm vụ
 
-**nhiên**:  hoàn thành word bản trình bày, exel cơ sở dữ liệu
+**nhiên**:  hoàn thành word bản trình bày, exel cơ sở dữ liệu, mô hình quan hệ thực thể 
 
-**nhiên**: sửa lại giao diện, nghiên cứu db
+**nhiên**: sửa lại giao diện, nghiên cứu db, xóa login cũ 
 
 # lịch sử
 
