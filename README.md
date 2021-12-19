@@ -20,7 +20,11 @@
 
 **nhiên**: fix constructor, add file exel decribe for database, file word presentation, add policy page, login page, 
 
+**việt nguyễn**: complete login page, dashboard
+
 12/12/2021
+
+**việt nguyễn**: fix giao diện, footer, login
 
  **nhiên**: more btn, details, sửa cấu trúc file, header options, login, dashbroad
  
