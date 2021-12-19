@@ -12,7 +12,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -22,9 +22,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -42,7 +42,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -52,9 +52,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -72,7 +72,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -82,9 +82,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -102,7 +102,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -112,9 +112,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -137,7 +137,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                    <a href="./details.php">View Details</a>
+                                    <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -147,9 +147,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -167,7 +167,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -177,9 +177,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -197,7 +197,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -207,9 +207,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -227,7 +227,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -237,9 +237,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -261,7 +261,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                    <a href="./details.php">View Details</a>
+                                    <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -271,9 +271,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -291,7 +291,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -301,9 +301,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -321,7 +321,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -331,9 +331,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -351,7 +351,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -361,9 +361,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -385,7 +385,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                    <a href="./details.php">View Details</a>
+                                    <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -395,9 +395,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -415,7 +415,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -425,9 +425,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -445,7 +445,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -455,9 +455,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -475,7 +475,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -485,9 +485,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -509,7 +509,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -519,9 +519,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -539,7 +539,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -549,9 +549,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -569,7 +569,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -579,9 +579,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -599,7 +599,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -609,9 +609,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -633,7 +633,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -643,9 +643,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -663,7 +663,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -673,9 +673,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -693,7 +693,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -703,9 +703,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -723,7 +723,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -733,9 +733,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -757,7 +757,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -767,9 +767,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -787,7 +787,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -797,9 +797,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -817,7 +817,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -827,9 +827,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -847,7 +847,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -857,9 +857,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -881,7 +881,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -891,9 +891,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -911,7 +911,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -921,9 +921,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -941,7 +941,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -951,9 +951,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -971,7 +971,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -981,9 +981,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1005,7 +1005,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1015,9 +1015,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1035,7 +1035,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1045,9 +1045,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1065,7 +1065,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1075,9 +1075,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1095,7 +1095,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1105,9 +1105,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1129,7 +1129,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1139,9 +1139,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1159,7 +1159,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1169,9 +1169,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1189,7 +1189,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1199,9 +1199,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1219,7 +1219,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1229,9 +1229,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1253,7 +1253,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1263,9 +1263,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1283,7 +1283,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1293,9 +1293,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1313,7 +1313,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1323,9 +1323,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1343,7 +1343,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1353,9 +1353,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1377,7 +1377,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1387,9 +1387,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1407,7 +1407,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1417,9 +1417,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1437,7 +1437,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                        <a href="./details.php">View Details</a>
+                                        <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1447,9 +1447,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
@@ -1467,7 +1467,7 @@
                                         <h3>$120</h3>
                                     </div>
                                     <div class="view-btn">
-                                    <a href="./details.php">View Details</a>
+                                    <a href="./details.php">Xem chi tiết</a>
                                     </div>
                                 </div>
                                 <hr />
@@ -1477,9 +1477,9 @@
                                 </p>
                                 <div class="btn-group">
                                     <div class="btn">
-                                        <a href="">Buy Now</a>
+                                        <a href="./cart.php">Mua ngay</a>
                                     </div>
-                                    <a href=""> Cancel</a>
+                                    <a href=""> Thêm vào giỏ</a>
                                 </div>
                             </div>
                         </div>
