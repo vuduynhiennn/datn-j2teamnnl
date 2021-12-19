@@ -5,7 +5,7 @@
 # task:
 
 1. code hoàn thiện phần details
-2. login
+2. trang sign in, sign up
 3. design db
 4. show sản phẩm ở trang chính
 5. tìm kiếm sản phẩm bằng thanh search
@@ -23,9 +23,9 @@
 
 # phân công nhiệm vụ
 
-**nhiên** code lại login 
+**nhiên** làm được cái gì thì làm :)))
 
-**nhiên**: nghiên cứu back end
+**việt nguyễn** đang suy nghĩ có nên bỏ làm đồ án hay không
 
 # lịch sử
 
