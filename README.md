@@ -4,13 +4,15 @@
 
 # phân công nhiệm vụ
 
-**nhiên** mô hình quan hệ thực thể 
+**nhiên** code lại login 
 
-**nhiên**: sửa lại giao diện, nghiên cứu db, xóa login cũ 
+**nhiên**: nghiên cứu back end
 
 # lịch sử
 
 19/12/2021
+
+**nhiên**: ERD, hoàn tất task chủ nhật 
 
 **nhiên**:  hoàn thành word bản trình bày, exel cơ sở dữ liệu, 
 
