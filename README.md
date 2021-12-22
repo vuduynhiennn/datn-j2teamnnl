@@ -1,6 +1,6 @@
 # Đồ án tốt nghiệp j2team school 
 
-**người tham gia:** Vũ Duy Nhiên, Việt Nguyễn
+**người tham gia:** Vũ Duy Nhiên, Dũng Bùi , Việt Nguyễn (bảo vệ đồ án đợt sau)
 
 # task:
 
@@ -20,6 +20,9 @@
 14. duyệt sản phẩm qua theo từng category
 15. thêm, sửa, xóa
 16. code dashboard
+17. CRUD
+18. design lại database
+19. dựng database
 
 # phân công nhiệm vụ
 
