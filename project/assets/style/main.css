@@ -51,6 +51,17 @@ a {
     color: #3F4B53;
     border-radius: 5px;
 }
+
+.line {
+    background-color: #E7E8EA;
+    height: 1px;
+    width: 100%;
+}
+
+.title {
+    font-size: 15px;
+    font-weight: 600;
+}
 /* app style  */
 body {
     box-sizing: border-box;
